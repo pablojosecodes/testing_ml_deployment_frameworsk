@@ -1,0 +1,7 @@
+build:
+  python_version: "3.11"
+  python_packages:
+    - pillow==9.5.0
+    - tensorflow==2.12.0
+predict: "predict.py:Predictor"
+
